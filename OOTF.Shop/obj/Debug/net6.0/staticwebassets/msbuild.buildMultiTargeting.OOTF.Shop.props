@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OOTF.Shop.props" />
+</Project>
